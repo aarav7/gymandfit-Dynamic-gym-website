@@ -1,6 +1,6 @@
 <?php
     date_default_timezone_set("Asia/Kolkata");
-    $db_host="";
+    $db_host="localhost";
     $db_user="";
     $db_password="";
     $db_name="";
