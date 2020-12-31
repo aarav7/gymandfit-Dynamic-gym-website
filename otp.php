@@ -1,8 +1,8 @@
 <?php
-    $db_host="localhost";
-    $db_user="id15313117_root";
-    $db_password="A@r@v123456789";
-    $db_name="id15313117_project";
+    $db_host="";
+    $db_user="";
+    $db_password="";
+    $db_name="";
 
 	$conn= mysqli_connect($db_host, $db_user, $db_password, $db_name);
 	if(!$conn)
